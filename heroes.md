@@ -10,3 +10,6 @@
 * Lin
 * Mujer
 * Fidel
+* Diana
+*Roberto
+*Papa
