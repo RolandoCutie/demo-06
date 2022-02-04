@@ -7,3 +7,6 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
+* Lin
+* Mujer
+* Fidel
